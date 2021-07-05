@@ -20,7 +20,7 @@ if ( is_admin() ) {
 		'slug'               => plugin_basename( __FILE__ ),
 		'proper_folder_name' => 'special-octo-spoon',
 		'api_url'            => 'https://api.github.com/repos/pereirinha/special-octo-spoon',
-		'raw_url'            => 'https://api.github.com/repos/pereirinha/special-octo-spoon/beta/upgrader',
+		'raw_url'            => 'https://api.github.com/repos/pereirinha/special-octo-spoon/branches/beta/upgrader',
 		'github_url'         => 'https://github.com/pereirinha/special-octo-spoon',
 		'zip_url'            => 'https://github.com/pereirinha/special-octo-spoon/zipball/beta/upgrader',
 		'sslverify'          => true,
